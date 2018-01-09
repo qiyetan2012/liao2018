@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+#use_frameworks
+
+target '马哥课堂' do
+  pod 'AFNetworking', '~> 3.1.0’
+  pod 'MJRefresh', '~> 3.1.12'
+  pod 'Masonry', '~> 1.0.2' 
+  pod 'SDWebImage'
+ pod 'MJExtension', '~> 3.0.13'
+pod 'SDCycleScrollView'
+
+end
